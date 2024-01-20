@@ -1,5 +1,10 @@
-# calculator-site
+# Calculator-Site
+1.Tecnology
 
-1.Done in a course.
-2.Using HTML and Javascript.
-3.Simple Design 
+-Javascript
+-CSS
+-HTML
+
+2.How Works
+
+-This aplication works in any Web browser, simulating an calculator.
